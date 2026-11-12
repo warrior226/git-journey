@@ -1,3 +1,7 @@
 One
 1
+<<<<<<< HEAD
 Uno
+=======
+Eins
+>>>>>>> main
